@@ -1,0 +1,10 @@
+.alert {
+    &-warning {
+        background-color: darken($dark, 8);
+        border-radius: 0;
+        border: none;
+        border-left: 2px solid $warning;
+        color: $light;
+        padding: .7rem 1rem;
+    }
+}

@@ -1,0 +1,66 @@
+.form {
+    &-label {
+        text-transform: uppercase;
+        font-size: .75rem;
+        color: $gray-600;
+        font-weight: 700;
+    }
+
+    &-control {
+        background-color: darken($dark, 2);
+        border: .1em solid lighten($dark, 25);
+        padding: .3rem .7rem;
+
+        &:focus {
+            background-color: darken($dark, 8);
+            border-color: $primary;
+        }
+
+        &:disabled {
+            color: lighten($dark, 55);
+            background-color: lighten($dark, 5);
+            border: .1em solid lighten($dark, 25);
+        }
+    }
+
+    &-validated {
+        text-transform: uppercase;
+        font-size: .8rem;
+        margin-top: .5rem;
+
+        @extend .d-flex;
+        @extend .align-items-center;
+
+        .bi {
+            @extend .me-2;
+        }
+
+        &-success {
+            color: $success;
+        }
+
+        &-error {
+            color: $danger;
+        }
+    }
+
+    &-select {
+        background-color: darken($dark, 8);
+        border: .1rem solid lighten($dark, 5);
+
+        &:focus {
+            border-color: $primary;
+            outline: none;
+            box-shadow: none;
+        }
+    }
+
+    &-text {
+        color: lighten($dark, 60);
+    }
+}
+
+.invalid-feedback {
+    font-weight: 600;
+    margin-top: .5rem;
+}

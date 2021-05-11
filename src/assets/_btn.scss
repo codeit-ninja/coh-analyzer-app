@@ -1,0 +1,13 @@
+.btn {
+    @extend .d-flex;
+    @extend .align-items-center;
+
+    .bi {
+        margin-right: .5rem;
+    }
+
+    span {
+        position: relative;
+        top: -.05em;
+    }
+}

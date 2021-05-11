@@ -1,0 +1,9 @@
+.match {
+    &--quikview {
+        background-color: darken($dark, 8);
+        margin-bottom: .2rem;
+        padding: .5rem .7rem;
+        border: .1rem solid lighten($dark, 5);
+        border-radius: $border-radius;
+    }
+}

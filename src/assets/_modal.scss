@@ -1,0 +1,32 @@
+.modal {
+    &-content {
+        background-color: lighten($dark, 70);
+    }
+}
+
+.app-crashed-notification {
+    background-color: rgba(lighten($dark, 15), .9);
+    z-index: 9999;
+
+    &-content {
+        position: relative;
+        background-color: lighten($dark, 3);
+        padding: 2rem 4rem;
+        min-width: 450px;
+        max-width: 650px;
+        color: $light;
+        border-radius: 5px;
+        box-shadow: 0 0 20px rgba(darken($dark, 15), .3);
+
+        p {
+            font-weight: 500;
+        }
+
+        button#dismiss-error {
+            margin-top: 1.5rem;
+            font-weight: 800;
+            font-size: 1.2rem;
+            color: lighten($dark, 50);
+        }
+    }
+}

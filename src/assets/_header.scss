@@ -1,0 +1,19 @@
+header {
+    background-color: darken($dark, 8);
+
+    .draggable {
+        -webkit-app-region: drag;
+    }
+
+    button {
+        background-color: transparent;
+        border: none;
+        width: 50px;
+        color: $light;
+        font-size: 1.3rem;
+
+        &:hover {
+            background-color: lighten($dark, 10);
+        }
+    }
+}
