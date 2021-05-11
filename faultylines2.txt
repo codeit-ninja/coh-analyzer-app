@@ -1,0 +1,392 @@
+18:58:39.74   GameSetupForm - Starting game
+18:58:39.74   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.74   PopulateGameInfoInternal - Setting Option #0 - [Id 1397509955, Value 1]
+18:58:39.74   PopulateGameInfoInternal - Setting Option #1 - [Id 1381192532, Value 1]
+18:58:39.74   PopulateGameInfoInternal - Setting Option #2 - [Id 1448105035, Value 1]
+18:58:39.74   PopulateGameInfoInternal - Player #0 - [Id 1704242, Type 2, Team 0, Race 0]
+18:58:39.74   PopulateGameInfoInternal - Player #4 - [Id -1, Type 3, Team 1, Race 1]
+18:58:39.74   PopulateGameInfoInternal - Player #1 - [Id 114367, Type 2, Team 0, Race 0]
+18:58:39.74   PopulateGameInfoInternal - Player #5 - [Id -1, Type 3, Team 1, Race 1]
+18:58:39.74   PopulateGameInfoInternal - Player #2 - [Id 1318767, Type 2, Team 0, Race 0]
+18:58:39.74   PopulateGameInfoInternal - Player #6 - [Id -1, Type 3, Team 1, Race 1]
+18:58:39.74   PopulateGameInfoInternal - Player #3 - [Id 189301, Type 0, Team 0, Race 0]
+18:58:39.74   PopulateGameInfoInternal - Player #7 - [Id -1, Type 3, Team 1, Race 1]
+18:58:39.74   PopulateGameInfoInternal - Team #0 Player Count: 4
+18:58:39.74   PopulateGameInfoInternal - Team #1 Player Count: 4
+18:58:39.74   PopulateGameInfo - random seed:[1620233918], guid:[{917cde64-813c-4995-a15b-474cf3e1b606}], sync level:[0]
+18:58:39.74   RLINK -- Accepted matchInfo updated 215 from host
+18:58:39.74   RLINK -- WorldwideAutomatchService::OnStartComplete - detected successful game start
+18:58:39.74   RLINK -- Match Started - [00000000:001a0132 /steam/76561199010197771], slot =  0, ranking =   -1
+18:58:39.74   RLINK -- Match Started - [00000000:0001bebf /steam/76561198122298254], slot =  2, ranking =   -1
+18:58:39.74   RLINK -- Match Started - [00000000:00141f6f /steam/76561198420389269], slot =  4, ranking =   -1
+18:58:39.74   RLINK -- Match Started - [00000000:0002e375 /steam/76561198036527204], slot =  6, ranking =   -1
+18:58:39.75   Error loading [DATA:levelingCurve.lua]
+18:58:39.75   Error loading [DATA:levelingCurve.lua]
+18:58:39.75   Error loading [DATA:levelingCurve.lua]
+18:58:39.75   Error loading [DATA:levelingCurve.lua]
+18:58:39.75   Error loading [DATA:levelingCurve.lua]
+18:58:39.75   Error loading [DATA:levelingCurve.lua]
+18:58:39.75   Error loading [DATA:levelingCurve.lua]
+18:58:39.75   Error loading [DATA:levelingCurve.lua]
+18:58:39.75   MOD - Setting player (0) race to: allies
+18:58:39.75   MOD - Setting player (0) race to: 1
+18:58:39.75   ModDllSetup::PlayerSetRewardUnits - playerIndex 0...
+18:58:39.75       adding reward 'upgrade\upgrade_axis_geschutzwagen'
+18:58:39.75       adding reward 'upgrade\upgrade_allied_hellcat'
+18:58:39.75       adding reward 'upgrade\upgrade_panzer_elite_hotchkiss'
+18:58:39.75       adding reward 'upgrade\upgrade_british_kangaroo'
+18:58:39.75       adding reward 'upgrade\upgrade_axis_schwimmwagen'
+18:58:39.75       adding reward 'upgrade\upgrade_panzer_elite_schwimmwagen'
+18:58:39.75       adding reward 'upgrade\upgrade_allied_staghound'
+18:58:39.75       adding reward 'upgrade\upgrade_british_staghound'
+18:58:39.75   MOD - Setting player (1) race to: allies
+18:58:39.75   MOD - Setting player (1) race to: 1
+18:58:39.75   ModDllSetup::PlayerSetRewardUnits - playerIndex 1...
+18:58:39.75       adding reward 'upgrade\upgrade_axis_geschutzwagen'
+18:58:39.75       adding reward 'upgrade\upgrade_allied_hellcat'
+18:58:39.75       adding reward 'upgrade\upgrade_panzer_elite_hotchkiss'
+18:58:39.75       adding reward 'upgrade\upgrade_axis_schwimmwagen'
+18:58:39.75       adding reward 'upgrade\upgrade_panzer_elite_schwimmwagen'
+18:58:39.75   MOD - Setting player (2) race to: allies
+18:58:39.75   MOD - Setting player (2) race to: 1
+18:58:39.75   ModDllSetup::PlayerSetRewardUnits - playerIndex 2...
+18:58:39.75       adding reward 'upgrade\upgrade_panzer_elite_hotchkiss'
+18:58:39.75       adding reward 'upgrade\upgrade_panzer_elite_schwimmwagen'
+18:58:39.75       adding reward 'upgrade\upgrade_british_staghound'
+18:58:39.75       adding reward 'upgrade\upgrade_allied_staghound'
+18:58:39.75   MOD - Setting player (3) race to: allies
+18:58:39.75   MOD - Setting player (3) race to: 1
+18:58:39.75   ModDllSetup::PlayerSetRewardUnits - playerIndex 3...
+18:58:39.75       adding reward 'upgrade\upgrade_panzer_elite_hotchkiss'
+18:58:39.75   MOD - Setting player (4) race to: axis
+18:58:39.75   MOD - Setting player (4) race to: 2
+18:58:39.75   ModDllSetup::PlayerSetRewardUnits - playerIndex 4...
+18:58:39.75   MOD - Setting player (5) race to: axis
+18:58:39.75   MOD - Setting player (5) race to: 2
+18:58:39.75   ModDllSetup::PlayerSetRewardUnits - playerIndex 5...
+18:58:39.75   MOD - Setting player (6) race to: axis
+18:58:39.75   MOD - Setting player (6) race to: 2
+18:58:39.75   ModDllSetup::PlayerSetRewardUnits - playerIndex 6...
+18:58:39.75   MOD - Setting player (7) race to: axis
+18:58:39.75   MOD - Setting player (7) race to: 2
+18:58:39.75   ModDllSetup::PlayerSetRewardUnits - playerIndex 7...
+18:58:39.77   APP -- Game Start
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.77   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.78   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.78   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.78   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.78   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.78   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.78   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.78   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.78   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+18:58:39.79   GAME -- Ending FE
+18:58:39.79   UIFrontEnd - Unloading Front End
+18:58:39.81   SOUND -- Shutting down ...
+18:58:39.92   SOUND -- Shutdown completed!
+18:58:39.92   P2PNetworkSynchronization::RegisterPeer - info, registered remote station [1].
+18:58:39.92   P2PNetworkSynchronization::RegisterPeer - info, registered remote station [2].
+18:58:39.92   P2PNetworkSynchronization::RegisterPeer - info, registered remote station [3].
+18:58:39.92   P2PNetworkSynchronization::RegisterPeer - info, registered local station [5].
+18:58:39.92
+18:58:39.92   GAME -- *** Beginning mission UNFAIRENEMIES3 (4 Humans, 4 Computers) ***
+18:58:39.92
+18:58:39.92   GameObj::StartGameObj - info, network session GUID set to [{917cde64-813c-4995-a15b-474cf3e1b606}].
+18:58:39.92   GAME -- Recording game
+18:58:39.95   Activating screen: GameLoadScreen
+18:58:40.20   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        251, transmitAckLastTimeMS     891109 | Peer ---E- M#00000000 Sack00000022 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:40.27   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        315, transmitAckLastTimeMS     891173 | Peer ---E- M#00000000 Sack00000001 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:40.27   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        315, transmitAckLastTimeMS     891173 | Peer ---E- M#00000000 Sack00000002 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:40.46   RLINK -- SENDING RETRY - Peer 5 to Peer 2 retryTimeMS        500 oneMsg.lastTransmitTime     890858, timeSinceLastTransmitMS        506 | Peer RS--- M#00000001 Sack00000001 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel:ÜÞm, Size:18  ]
+18:58:40.46   RLINK -- SENDING RETRY - Peer 5 to Peer 3 retryTimeMS        500 oneMsg.lastTransmitTime     890858, timeSinceLastTransmitMS        506 | Peer RS--- M#00000001 Sack00000002 NSack00000000 (C0.0% S:0.0) [ PKT SIZE:22 data DestChannel:ÜÞm, Size:18  ]
+18:58:40.59   THREAD: Hyper-Threading Technology Processors are not detected.
+18:58:40.69   SOUND -- Initializing ...
+18:58:40.74   RLINK -- [P#5] SrcP# 2 ignoring old retry: 1 expect: 3
+18:58:40.81   SOUND -- Initialization completed!
+18:58:40.83   PHYSICS: detected processor(s) capable of handling 12 threads.
+18:58:40.84   MOD -- Locating MOD for scenario 'DATA:Scenarios\MP\UNFAIRENEMIES3'
+18:58:40.84   MOD -- Using Mod 'RelicCoH'
+18:58:40.87   Unable to load/parse precache file [DATA:Scenarios\MP\UNFAIRENEMIES3_precache.lua]
+18:58:41.09   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        267, transmitAckLastTimeMS     891995 | Peer ---E- M#00000000 Sack00000024 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:41.09   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        267, transmitAckLastTimeMS     891995 | Peer ---E- M#00000000 Sack00000003 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:41.25   RLINK -- [P#5] SrcP# 2 ignoring old retry: 2 expect: 4
+18:58:41.39   GameObjLoader - upgrading load_count from 0 to 547
+18:58:41.50   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        265, transmitAckLastTimeMS     892403 | Peer ---E- M#00000000 Sack00000025 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:41.50   RLINK -- [P#5] SrcP# 2 ignoring old retry: 3 expect: 4
+18:58:41.50   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        265, transmitAckLastTimeMS     892403 | Peer ---E- M#00000000 Sack00000004 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:41.55   GameObjLoader - upgrading load_count from 547 to 1286
+18:58:41.81   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        259, transmitAckLastTimeMS     892713 | Peer ---E- M#00000000 Sack00000026 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:42.12   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        262, transmitAckLastTimeMS     893027 | Peer ---E- M#00000000 Sack00000027 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:42.12   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        262, transmitAckLastTimeMS     893027 | Peer ---E- M#00000000 Sack00000004 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:42.37   RLINK -- [P#5] SrcP# 2 ignoring old retry: 4 expect: 6
+18:58:42.43   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        265, transmitAckLastTimeMS     893337 | Peer ---E- M#00000000 Sack00000028 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:42.43   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        265, transmitAckLastTimeMS     893337 | Peer ---E- M#00000000 Sack00000005 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:42.74   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        266, transmitAckLastTimeMS     893650 | Peer ---E- M#00000000 Sack00000029 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:42.74   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        266, transmitAckLastTimeMS     893650 | Peer ---E- M#00000000 Sack00000006 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:42.74   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        266, transmitAckLastTimeMS     893650 | Peer ---E- M#00000000 Sack00000006 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.05   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        269, transmitAckLastTimeMS     893960 | Peer ---E- M#00000000 Sack00000030 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.05   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        269, transmitAckLastTimeMS     893960 | Peer ---E- M#00000000 Sack00000007 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.05   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        269, transmitAckLastTimeMS     893960 | Peer ---E- M#00000000 Sack00000007 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.24   RLINK -- [P#5] SrcP# 2 ignoring old retry: 6 expect: 8
+18:58:43.37   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        255, transmitAckLastTimeMS     894273 | Peer ---E- M#00000000 Sack00000008 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.37   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        255, transmitAckLastTimeMS     894273 | Peer ---E- M#00000000 Sack00000008 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.40   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        286, transmitAckLastTimeMS     894304 | Peer ---E- M#00000000 Sack00000031 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.68   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        259, transmitAckLastTimeMS     894583 | Peer ---E- M#00000000 Sack00000032 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.68   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        259, transmitAckLastTimeMS     894583 | Peer ---E- M#00000000 Sack00000009 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:43.68   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        259, transmitAckLastTimeMS     894583 | Peer ---E- M#00000000 Sack00000009 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.02   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        271, transmitAckLastTimeMS     894924 | Peer ---E- M#00000000 Sack00000033 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.02   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        271, transmitAckLastTimeMS     894924 | Peer ---E- M#00000000 Sack00000010 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.02   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        271, transmitAckLastTimeMS     894924 | Peer ---E- M#00000000 Sack00000010 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.33   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        279, transmitAckLastTimeMS     895236 | Peer ---E- M#00000000 Sack00000034 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.33   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        279, transmitAckLastTimeMS     895236 | Peer ---E- M#00000000 Sack00000011 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.61   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        253, transmitAckLastTimeMS     895519 | Peer ---E- M#00000000 Sack00000035 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.61   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        253, transmitAckLastTimeMS     895519 | Peer ---E- M#00000000 Sack00000012 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.64   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        284, transmitAckLastTimeMS     895550 | Peer ---E- M#00000000 Sack00000012 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.92   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        260, transmitAckLastTimeMS     895832 | Peer ---E- M#00000000 Sack00000036 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.92   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        260, transmitAckLastTimeMS     895832 | Peer ---E- M#00000000 Sack00000013 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:44.92   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        260, transmitAckLastTimeMS     895832 | Peer ---E- M#00000000 Sack00000013 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:45.24   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        265, transmitAckLastTimeMS     896145 | Peer ---E- M#00000000 Sack00000037 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:45.27   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        297, transmitAckLastTimeMS     896177 | Peer ---E- M#00000000 Sack00000014 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:45.27   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        297, transmitAckLastTimeMS     896177 | Peer ---E- M#00000000 Sack00000014 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:45.45   GameObjLoader - upgrading load_count from 1026 to 3520
+18:58:45.55   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        272, transmitAckLastTimeMS     896457 | Peer ---E- M#00000000 Sack00000038 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:45.55   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        272, transmitAckLastTimeMS     896457 | Peer ---E- M#00000000 Sack00000015 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:45.55   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        272, transmitAckLastTimeMS     896457 | Peer ---E- M#00000000 Sack00000015 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:45.89   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        294, transmitAckLastTimeMS     896802 | Peer ---E- M#00000000 Sack00000016 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:45.89   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        294, transmitAckLastTimeMS     896802 | Peer ---E- M#00000000 Sack00000016 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:46.18   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        271, transmitAckLastTimeMS     897085 | Peer ---E- M#00000000 Sack00000017 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:46.46   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        251, transmitAckLastTimeMS     897368 | Peer ---E- M#00000000 Sack00000017 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:46.51   GameObjLoader 1128b628 - resetting counters
+18:58:46.51   GameObjLoader 1128b628 - LOAD_DONE
+18:58:46.51   GAME - SessionSetup
+18:58:46.51   GAME -- Can't initialize scenario pack more than once.
+18:58:46.77   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        258, transmitAckLastTimeMS     897678 | Peer ---E- M#00000000 Sack00000018 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:46.79   CommandBPDatabase - Unable to register function [splat_attach] due to missing CommandBP.
+18:58:46.79   TERRAINTEXTURE -- compositor added RenderTarget [0] of size 2048 x 2048
+18:58:46.79   TERRAINTEXTURE -- compositor added RenderTarget [1] of size 1024 x 1024
+18:58:46.90   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        385, transmitAckLastTimeMS     897805 | Peer ---E- M#00000000 Sack00000019 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:47.02   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        252, transmitAckLastTimeMS     897930 | Peer ---E- M#00000000 Sack00000019 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:47.18   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        280, transmitAckLastTimeMS     898085 | Peer ---E- M#00000000 Sack00000020 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:47.30   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        280, transmitAckLastTimeMS     898210 | Peer ---E- M#00000000 Sack00000020 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:47.46   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        281, transmitAckLastTimeMS     898366 | Peer ---E- M#00000000 Sack00000021 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:47.55   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        251, transmitAckLastTimeMS     898461 | Peer ---E- M#00000000 Sack00000021 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:47.77   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        312, transmitAckLastTimeMS     898678 | Peer ---E- M#00000000 Sack00000022 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:47.89   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        341, transmitAckLastTimeMS     898802 | Peer ---E- M#00000000 Sack00000022 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:48.05   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        282, transmitAckLastTimeMS     898960 | Peer ---E- M#00000000 Sack00000023 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:48.14   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS       1632, transmitAckLastTimeMS     899052 | Peer ---E- M#00000000 Sack00000039 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:48.18   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        281, transmitAckLastTimeMS     899083 | Peer ---E- M#00000000 Sack00000023 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:48.46   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        406, transmitAckLastTimeMS     899366 | Peer ---E- M#00000000 Sack00000024 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:48.58   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        406, transmitAckLastTimeMS     899489 | Peer ---E- M#00000000 Sack00000024 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:48.77   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        312, transmitAckLastTimeMS     899678 | Peer ---E- M#00000000 Sack00000025 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:48.86   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        279, transmitAckLastTimeMS     899768 | Peer ---E- M#00000000 Sack00000025 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:49.05   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        280, transmitAckLastTimeMS     899958 | Peer ---E- M#00000000 Sack00000026 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:49.18   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        316, transmitAckLastTimeMS     900084 | Peer ---E- M#00000000 Sack00000026 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:49.34   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        286, transmitAckLastTimeMS     900244 | Peer ---E- M#00000000 Sack00000027 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:49.62   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        446, transmitAckLastTimeMS     900530 | Peer ---E- M#00000000 Sack00000027 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:49.65   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        318, transmitAckLastTimeMS     900562 | Peer ---E- M#00000000 Sack00000028 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:49.88   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        253, transmitAckLastTimeMS     900783 | Peer ---E- M#00000000 Sack00000028 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:50.26   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        730, transmitAckLastTimeMS     901165 | Peer ---E- M#00000000 Sack00000040 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:50.26   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        382, transmitAckLastTimeMS     901165 | Peer ---E- M#00000000 Sack00000029 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:50.54   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        284, transmitAckLastTimeMS     901449 | Peer ---E- M#00000000 Sack00000041 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:51.02   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        474, transmitAckLastTimeMS     901923 | Peer ---E- M#00000000 Sack00000042 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:51.67   GAME - CreateGEWorld in 5158 ms
+18:58:51.67   GAME - SessionSetup finished in 5158 ms
+18:58:51.67   RLINK -- NetworkManager::DispatchEvents() - Warning - Time between calls was 5160 ms
+18:58:51.68   GAME - WaterReflectionManagerSetup
+18:58:51.68   GAME - WaterReflectionManagerSetup finished in 0 ms
+18:58:51.82   ModWorld::LoadWinCondition: - [DATA:Scar/WinConditions/ZANNIHILATE.SCAR] succeeded.
+18:58:52.03   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        357, transmitAckLastTimeMS     902936 | Peer ---E- M#00000000 Sack00000043 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:52.41   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        377, transmitAckLastTimeMS     903313 | Peer ---E- M#00000000 Sack00000044 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:52.78   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS       1110, transmitAckLastTimeMS     903689 | Peer ---E- M#00000000 Sack00000029 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:53.76   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS       1352, transmitAckLastTimeMS     904665 | Peer ---E- M#00000000 Sack00000045 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:54.26   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS       2589, transmitAckLastTimeMS     905168 | Peer ---E- M#00000000 Sack00000030 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:54.28   RLINK -- NetworkManager::DispatchEvents() - Warning - Time between calls was 2505 ms
+18:58:54.28   LoadArbitrator::UpdateLoadProgress - info, player "[0:1]" finished loading with checksum [2766399068].
+18:58:54.28   LoadArbitrator::UpdateLoadProgress - info, player "[0:1]" finished loading with checksum [2766399068].
+18:58:54.51   BindingsSystem -- Cannot create binding.  Unknown type 'repair_radius_circle'
+18:58:54.51   BindingsSystem -- Cannot create binding.  Unknown type 'repair_radius_circle'
+18:58:54.51   BindingsSystem -- Cannot create binding.  Unknown type 'repair_radius_circle'
+18:58:54.51   BindingsSystem -- Cannot create binding.  Unknown type 'repair_radius_circle'
+18:58:54.51   BindingsSystem -- Cannot create binding.  Unknown type 'repair_radius_circle'
+18:58:54.56   SPEECHMANAGER -- Loaded in 0.032368 seconds
+18:58:55.06   GameObjLoader - upgrading load_count from 0 to 801
+18:58:55.53   GameObjLoader 1128b508 - resetting counters
+18:58:55.53   GameObjLoader 1128b508 - LOAD_DONE
+18:58:55.81   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        278, transmitAckLastTimeMS     906715 | Peer ---E- M#00000000 Sack00000046 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:56.28   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        750, transmitAckLastTimeMS     907187 | Peer ---E- M#00000000 Sack00000030 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:56.88   LoadArbitrator::UpdateLoadProgress - info, player "[0:1]" finished loading with checksum [2766399068].
+18:58:56.89   PreloadResources took 0ms.
+18:58:56.93   GAME -- Loading completed (17 seconds)
+18:58:56.93   SIM -- Setting SyncErrorChecking level to Low
+18:58:56.96   LoadArbitrator::UpdateLoadProgress - info, player "[0:5]" finished loading with checksum [2766399068].
+18:58:57.22   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        257, transmitAckLastTimeMS     908128 | Peer ---E- M#00000000 Sack00000031 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:57.50   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        277, transmitAckLastTimeMS     908405 | Peer ---E- M#00000000 Sack00000032 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:57.75   LoadArbitrator::UpdateLoadProgress - info, player "[0:1]" finished loading with checksum [2766399068].
+18:58:57.78   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS        815, transmitAckLastTimeMS     908686 | Peer ---E- M#00000000 Sack00000047 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:57.78   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        281, transmitAckLastTimeMS     908686 | Peer ---E- M#00000000 Sack00000033 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:58.00   LoadArbitrator::UpdateLoadProgress - info, player "[0:5]" finished loading with checksum [2766399068].
+18:58:58.28   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS        279, transmitAckLastTimeMS     909183 | Peer ---E- M#00000000 Sack00000035 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:59.41   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS       1415, transmitAckLastTimeMS     910319 | Peer ---E- M#00000000 Sack00000031 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:59.73   LoadArbitrator::UpdateLoadProgress - info, player "[0:1]" finished loading with checksum [2766399068].
+18:58:59.76   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS       1760, transmitAckLastTimeMS     910664 | Peer ---E- M#00000000 Sack00000048 NSack00000000 (C0.0% S:0.0) [  ]
+18:58:59.98   LoadArbitrator::UpdateLoadProgress - info, player "[0:2]" finished loading with checksum [2766399068].
+18:59:00.00   LoadArbitrator::UpdateLoadProgress - info, player "[0:5]" finished loading with checksum [2766399068].
+18:59:00.26   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        259, transmitAckLastTimeMS     911163 | Peer ---E- M#00000000 Sack00000032 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:00.51   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        253, transmitAckLastTimeMS     911416 | Peer ---E- M#00000000 Sack00000033 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:00.79   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        279, transmitAckLastTimeMS     911695 | Peer ---E- M#00000000 Sack00000034 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:01.07   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        282, transmitAckLastTimeMS     911977 | Peer ---E- M#00000000 Sack00000035 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:01.26   LoadArbitrator::UpdateLoadProgress - info, player "[0:2]" finished loading with checksum [2766399068].
+18:59:01.29   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS       1290, transmitAckLastTimeMS     912194 | Peer ---E- M#00000000 Sack00000038 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:01.35   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        280, transmitAckLastTimeMS     912257 | Peer ---E- M#00000000 Sack00000036 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:01.76   LoadArbitrator::UpdateLoadProgress - info, player "[0:1]" finished loading with checksum [2766399068].
+18:59:01.79   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS       1789, transmitAckLastTimeMS     912693 | Peer ---E- M#00000000 Sack00000049 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:02.00   LoadArbitrator::UpdateLoadProgress - info, player "[0:5]" finished loading with checksum [2766399068].
+18:59:03.24   LoadArbitrator::UpdateLoadProgress - info, player "[0:2]" finished loading with checksum [2766399068].
+18:59:03.27   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 2 - timeSinceLastAckMS       1274, transmitAckLastTimeMS     914178 | Peer ---E- M#00000000 Sack00000039 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:03.52   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS       1522, transmitAckLastTimeMS     914426 | Peer ---E- M#00000000 Sack00000037 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:03.62   LoadArbitrator::UpdateLoadProgress - info, player "[0:3]" finished loading with checksum [2766399068].
+18:59:03.63   Activating screen: GameScreen
+18:59:03.63   Activating screen: Decorators
+18:59:03.63   Activating screen: Taskbar
+18:59:03.63   Activating screen: SubtitleScreen
+18:59:03.63   Activating screen: TextOverlayScreen
+18:59:03.66   PerformanceRecorder::StartRecording for game size 8
+18:59:03.66   GAME -- Starting mission...
+18:59:03.77   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 1 - timeSinceLastAckMS       1771, transmitAckLastTimeMS     914675 | Peer ---E- M#00000000 Sack00000050 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:03.80   RLINK -- SENDING FORCED ACK from Peer 5 to Peer 3 - timeSinceLastAckMS        280, transmitAckLastTimeMS     914706 | Peer ---E- M#00000000 Sack00000038 NSack00000000 (C0.0% S:0.0) [  ]
+18:59:04.00   LoadArbitrator::UpdateLoadProgress - info, player "[0:1]" finished loading with checksum [2766399068].
+18:59:04.01   RLINK -- Transport - median kBPS [hi/cur] sent = 0.2/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.8/0.5, max unsent 0, version err 0, merge 0
+18:59:04.82   MOD -- Player CPU - Expert set to AI Type: AI Player (frame 2) (CmdAI)
+18:59:04.96   MOD -- Player CPU - Expert set to AI Type: AI Player (frame 3) (CmdAI)
+18:59:04.96   MOD -- Player CPU - Expert set to AI Type: AI Player (frame 3) (CmdAI)
+18:59:05.09   MOD -- Player CPU - Expert set to AI Type: AI Player (frame 4) (CmdAI)
+18:59:06.31   Activating screen: pause_menu
+18:59:06.97   Activating screen: prompt_generic
+18:59:07.33   P2PNetworkSynchronization::Stop - info, stop called. m_peers will be cleared.
+18:59:07.33   MOD -- Player [82AD] Red (network abort) (frame 22) (KillPlayer)
+18:59:07.33   Activating screen: GameOverDialog
+18:59:07.33   ArbitrationMessageNeeded 0 allies vs 0 enemies result 0
+18:59:07.33   GameOverDialog - normal game ending (no sync errors)
+18:59:07.33   GameApp::ReportStats
+18:59:07.33   ReportMatchResults - onlyReportOnWin = 0
+18:59:07.33   ReportMatchResults - SimID:1000, raceID:0, teamID:0, uid:0:1704242, result:6:PS_PLAYING
+18:59:07.33   ReportMatchResults - SimID:1001, raceID:0, teamID:0, uid:0:114367, result:6:PS_PLAYING
+18:59:07.33   ReportMatchResults - SimID:1002, raceID:0, teamID:0, uid:0:1318767, result:6:PS_PLAYING
+18:59:07.33   ReportMatchResults - SimID:1003, raceID:0, teamID:0, uid:0:189301, result:1:PS_ABORTED
+18:59:07.33   ReportMatchResults - SimID:1004, raceID:1, teamID:1, uid:4294967295:4294967295, AI player, ignoring
+18:59:07.33   ReportMatchResults - SimID:1005, raceID:1, teamID:1, uid:4294967295:4294967295, AI player, ignoring
+18:59:07.33   ReportMatchResults - SimID:1006, raceID:1, teamID:1, uid:4294967295:4294967295, AI player, ignoring
+18:59:07.33   ReportMatchResults - SimID:1007, raceID:1, teamID:1, uid:4294967295:4294967295, AI player, ignoring
+18:59:07.33   ReportMatchResults - reporting normal game results for match 0:96459742
+18:59:07.33   ReportSimStats - storing simulation results for match 0:96459742
+18:59:07.33   ModWorld::ReportSimStats complete:
+18:59:07.33   8 player entries
+18:59:07.33   0 player reward entries
+18:59:07.33   0 player endgame entries
+18:59:07.33   0 player skipped NIS entries
+18:59:07.33   0 player production entries
+18:59:07.33   0 player entity death entries
+18:59:07.33   0 player resource entries
+18:59:07.33   0 player objectives entries
+18:59:07.33   0 player PBG stat entries
+18:59:07.33   0 player PBG ability use entries
+18:59:07.33   RLINK -- SessionID : 5bfdbde - Disconnect called with reasonID 1004 - disconnected
+18:59:07.33   GameObj::DoGameOverPopup
+18:59:07.34   RLINK -- WorldwideLeaveAdvertisementAsync: Match id = 96459742 started, nothing to do
+18:59:07.34   P2PNetworkSynchronization::OnSyncMessage - warning, peer [1] is no longer registered.
+18:59:07.34   P2PNetworkSynchronization::OnSyncMessage - warning, peer [2] is no longer registered.
+18:59:07.34   P2PNetworkSynchronization::OnSyncMessage - warning, peer [3] is no longer registered.
+18:59:07.34   P2PNetworkSynchronization::OnSyncMessage - warning, peer [5] is no longer registered.
+18:59:07.34   P2PNetworkSynchronization::OnSyncMessage - warning, peer [2] is no longer registered.
+18:59:07.35   RLINK -- WorldwideLeaveAdvertisementAsync: Match id = 96459742 started, nothing to do
+18:59:07.36   RLINK -- Session::SelectNewSessionHost - Select peer 5 to be next host (previously peer 1)
+18:59:07.36   RLINK -- Session::SchedulePeerRemove - Scheduling peerID: 1 to disconnect, reasonCode:1004, reason:disconnected
+18:59:07.36   RLINK -- Session disconnect is marking PeerID 1 for death
+18:59:07.36   RLINK -- Session::SchedulePeerRemove - Scheduling peerID: 2 to disconnect, reasonCode:1004, reason:disconnected
+18:59:07.36   RLINK -- Session disconnect is marking PeerID 2 for death
+18:59:07.36   RLINK -- Session::SchedulePeerRemove - Scheduling peerID: 3 to disconnect, reasonCode:1004, reason:disconnected
+18:59:07.36   RLINK -- Session disconnect is marking PeerID 3 for death
+18:59:07.36   RLINK -- Session::SchedulePeerRemove - Scheduling peerID: 5 to disconnect, reasonCode:1004, reason:disconnected
+18:59:07.36   RLINK -- WorldwideAdvertisementService::Process - EVENT_HOSTMIGRATION
+18:59:07.36   RLINK -- WorldwidePartyService::OnHostMigration - [[00000000:05bfdbde]] Got a queued migration event while disconnecting, ignoring
+18:59:07.36   RLINK -- Session Destroy Peer Event - ReasonID: 1004 ReasonDebug: disconnected
+18:59:07.36   RLINK -- Session::GetEvent DestroyPeer success Peer 1 removed, reasonCode 1004, reasonDebug disconnected
+18:59:07.36   RLINK -- Session::DestroyPeer - deallocating peer 1
+18:59:07.36   RLINK -- Session - Requested Disconnect for connectionID 31
+18:59:07.36   RLINK -- WorldwideAdvertisementService::Process - EVENT_DESTROYPEER
+18:59:07.36   RLINK -- peerremove - peerIDRemoved=[00000000:001a0132], reasonID=1004, reason debug hint - disconnected
+18:59:07.36   P2PNetworkSynchronization::OnMatchEvent() - Disconnecting non-existant player 1
+18:59:07.36   GameObjController - OnMatchEvent: event type 1
+18:59:07.36   GameObj::ShowPlayerDroppedMessage - info, station [1] is disconnected
+18:59:07.36   ModUI::OnPlayerDrops player 1000 reason 0
+18:59:07.36   ModUI::OnPlayerDrops adding player 1000 [1704242] as victorious ally
+18:59:07.36   RLINK -- Session Destroy Peer Event - ReasonID: 1004 ReasonDebug: disconnected
+18:59:07.36   RLINK -- Session::GetEvent DestroyPeer success Peer 2 removed, reasonCode 1004, reasonDebug disconnected
+18:59:07.36   RLINK -- Session::DestroyPeer - deallocating peer 2
+18:59:07.36   RLINK -- Session - Requested Disconnect for connectionID 33
+18:59:07.36   RLINK -- WorldwideAdvertisementService::Process - EVENT_DESTROYPEER
+18:59:07.36   RLINK -- peerremove - peerIDRemoved=[00000000:0001bebf], reasonID=1004, reason debug hint - disconnected
+18:59:07.36   P2PNetworkSynchronization::OnMatchEvent() - Disconnecting non-existant player 2
+18:59:07.36   GameObjController - OnMatchEvent: event type 1
+18:59:07.36   GameObj::ShowPlayerDroppedMessage - info, station [2] is disconnected
+18:59:07.36   ModUI::OnPlayerDrops player 1001 reason 0
+18:59:07.36   ModUI::OnPlayerDrops adding player 1001 [114367] as victorious ally
+18:59:07.36   RLINK -- Session Destroy Peer Event - ReasonID: 1004 ReasonDebug: disconnected
+18:59:07.36   RLINK -- Session::GetEvent DestroyPeer success Peer 3 removed, reasonCode 1004, reasonDebug disconnected
+18:59:07.36   RLINK -- Session::DestroyPeer - deallocating peer 3
+18:59:07.36   RLINK -- Session - Requested Disconnect for connectionID 34
+18:59:07.36   RLINK -- WorldwideAdvertisementService::Process - EVENT_DESTROYPEER
+18:59:07.36   RLINK -- peerremove - peerIDRemoved=[00000000:00141f6f], reasonID=1004, reason debug hint - disconnected
+18:59:07.36   P2PNetworkSynchronization::OnMatchEvent() - Disconnecting non-existant player 3
+18:59:07.36   GameObjController - OnMatchEvent: event type 1
+18:59:07.36   GameObj::ShowPlayerDroppedMessage - info, station [3] is disconnected
+18:59:07.36   ModUI::OnPlayerDrops player 1002 reason 0
+18:59:07.36   ModUI::OnPlayerDrops adding player 1002 [1318767] as victorious ally
+18:59:07.36   RLINK -- Session Destroy Peer Event - ReasonID: 1004 ReasonDebug: disconnected
+18:59:07.36   RLINK -- Session::GetEvent DestroyPeer success Peer 5 removed, reasonCode 1004, reasonDebug disconnected
+18:59:07.36   RLINK -- Session::DestroyPeer - deallocating peer 5
+18:59:07.36   RLINK -- Session - Requested Disconnect for connectionID 30
+18:59:07.36   RLINK -- Deallocated route ID=32 for PeerID 5 at WINaddr:172.22.80.1:6112;
+18:59:07.36   RLINK -- Session - Requested Disconnect for connectionID 32
+18:59:07.36   RLINK -- Closed route 32<>32 for PeerID 5 at WINaddr:172.22.80.1:6112;
+18:59:07.36   RLINK -- WorldwideAdvertisementService::Process - EVENT_DESTROYPEER
+18:59:07.36   RLINK -- peerremove - peerIDRemoved=[00000000:0002e375], reasonID=1004, reason debug hint - disconnected
+18:59:07.36   P2PNetworkSynchronization::OnMatchEvent() - Disconnecting non-existant player 5
+18:59:07.36   GameObjController - OnMatchEvent: event type 1
+18:59:07.36   GameObj::ShowPlayerDroppedMessage - info, station [5] is disconnected
+18:59:07.36   ModUIEventPlayerDropped: Unable to find player with net ID [5] in Game Info, player already disconnected
+18:59:07.36   RLINK -- Session::SendQueuedMessagesToRelay local peer is missing, not sending
+18:59:07.37   RLINK -- Session::GetState - info, session [96459742]'s state changed to [1:STATE_DISCONNECTED].
+18:59:07.37   RLINK -- PeerRemoveAll - flushing local session peer data
+18:59:07.37   RLINK -- Session::Reset with reason WorldwidePartyService::PeerRemoveAll
+18:59:07.37   RLINK -- LeaveSessionInternal - no action taken, needLeave=0, service=0
+18:59:07.37   RLINK -- Destroyed Matchinfo
+18:59:07.37   RLINK -- DBG - _SockFree: socket 5/5368 sending graceful shutdown request. reason: SockCollection::DisconnectAll forceFree
+18:59:07.37   RLINK -- DBG - _SockClose: socket 5/5368 initiating close
+18:59:07.37   RLINK -- DBG - _SockClose: socket 5/5368 close complete. debugReason SockCollection::DisconnectAll forceFree
+18:59:07.37   RLINK -- DBG - _SockFree: socket 5/5368 _SockFree complete
+18:59:07.47   RLINK -- BT! - SockUnInit - sending shutdown notification & close with linger for all 0 active sockets
+18:59:07.47   RLINK -- SessionManager::UnregisterSession - Unregistering session 4a40f408
+18:59:07.47   RLINK -- OnDestroyPartyNotification - partyID = [00000000:05bfdbde], prevID = [ffffffff:ffffffff]
+18:59:07.58   Activating screen: postgame_stats_skirm

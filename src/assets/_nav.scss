@@ -1,0 +1,33 @@
+.nav {
+    padding: 2rem 0 0 2.5rem;
+
+    &-link {
+        padding: .4rem 1.5rem;
+        text-transform: uppercase;
+        font-size: .8rem;
+        color: lighten($dark, 50);
+        font-weight: 600;
+        max-width: 200px;
+        border-radius: 30px;
+        margin-bottom: 1rem;
+
+        &.active,
+        &.router-link-active {
+            background-color: darken($dark, 1);
+            color: $primary;
+        }
+
+        &:hover:not(.router-link-active) {
+            color: $gray-400;
+        }
+
+        .bi {
+            font-size: 1.2rem;
+            
+            @extend .me-3;
+        }
+
+        @extend .d-flex;
+        @extend .align-items-center;
+    }
+}

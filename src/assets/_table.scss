@@ -1,0 +1,63 @@
+.table {
+    &-borderless {
+        th, td {
+            padding: .4rem 0;
+        }
+
+        tbody {
+            td {
+                .bi {
+                    position: relative;
+                    color: lighten($dark, 20);
+                }
+            }
+        }
+    }
+
+    &-matches {
+        border-collapse: separate; 
+        border-spacing: 0 .2rem;
+
+        tr {
+            th,
+            td {
+                border-bottom: 0;
+            }
+        }
+
+        thead {
+            tr {
+                background-color: darken($dark, 3);
+
+                th {
+                    color: $primary;
+                }
+
+                th:not(:last-child) {
+                    border-right: .2rem solid darken($dark, 5);
+                }
+            }
+        }
+
+        tbody {
+            tr {
+                background-color: lighten($dark, 15);
+                margin-bottom: 2rem;
+
+                td {
+                    padding: .7rem;
+                }
+
+                td:not(:last-child) {
+                    border-right: .2rem solid lighten($dark, 17);
+                }
+
+                td {
+                    button {
+                        margin: 0 auto;
+                    }
+                }
+            }
+        }
+    }
+}
