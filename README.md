@@ -1,3 +1,7 @@
+### Work in progress
+
+Note that this is still work in progress. I currently have some other work deadlines which are in the way of finishing this. Just have patience ;)
+
 ### FkNoobsCoH - Analyzer
 
 This utility is used for the Company of Heroes twitch extension, but can also be used as a standalone app. What does this utility do?
